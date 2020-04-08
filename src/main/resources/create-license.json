@@ -7,9 +7,9 @@
   "key_password": "3acbc5f4-1b3b-404e-b715-27c1a17d2892",
   "store_password": "803b6cc3-d144-47e8-948f-ec8b39c8881e",
   "license_path": "hugegraph-community.license",
-  "issued_time": "2019-09-01 00:00:00",
-  "not_before": "2019-09-01 00:00:00",
-  "not_after": "2029-09-01 00:00:00",
+  "issued_time": "2020-01-01 00:00:00",
+  "not_before": "2020-01-01 00:00:00",
+  "not_after": "2030-01-01 00:00:00",
   "extra_params": [
     {
       "id": "server-1",
@@ -20,7 +20,22 @@
       "cpus": -1,
       "ram": -1,
       "threads": -1,
-      "memory": -1
+      "memory": -1,
+      "nodes": 3,
+      "data_size": 102400
+    },
+    {
+      "id": "server-test-d8fd7623-4a69-863b-cca0-3eb9ad85e45e",
+      "version": "",
+      "graphs": 10,
+      "ip": "10.102.64.40",
+      "mac": "6c:92:bf:3a:fe:b0",
+      "cpus": -1,
+      "ram": -1,
+      "threads": -1,
+      "memory": -1,
+      "nodes": 3,
+      "data_size": 102400
     }
   ]
 }

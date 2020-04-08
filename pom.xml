@@ -18,12 +18,12 @@
         <dependency>
             <groupId>com.baidu.hugegraph</groupId>
             <artifactId>hugegraph-client</artifactId>
-            <version>1.7.5</version>
+            <version>1.8.2</version>
         </dependency>
         <dependency>
             <groupId>com.baidu.hugegraph</groupId>
             <artifactId>hugegraph-common</artifactId>
-            <version>1.6.13</version>
+            <version>1.7.3</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
