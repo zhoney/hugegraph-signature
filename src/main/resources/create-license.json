@@ -7,61 +7,8 @@
   "key_password": "fce5e137-61f2-c79a-19a9-79a822578932",
   "store_password": "278a8c8d-15d7-b99f-1957-2c30bcefd8e5",
   "license_path": "hugegraph-icbc.license",
-  "issued_time": "2020-04-01 00:00:00",
-  "not_before": "2020-04-01 00:00:00",
-  "not_after": "2020-06-01 00:00:00",
-  "extra_params": [
-    {
-      "id": "server-1",
-      "version": "",
-      "graphs": 3,
-      "ip": "84.231.61.150",
-      "mac": "6C:92:BF:CF:36:F3",
-      "cpus": -1,
-      "ram": -1,
-      "threads": -1,
-      "memory": -1,
-      "nodes": -1,
-      "data_size": -1
-    },
-    {
-      "id": "server-2",
-      "version": "",
-      "graphs": 3,
-      "ip": "84.231.61.154",
-      "mac": "6C:92:BF:CF:02:E5",
-      "cpus": -1,
-      "ram": -1,
-      "threads": -1,
-      "memory": -1,
-      "nodes": -1,
-      "data_size": -1
-    },
-    {
-      "id": "server-3",
-      "version": "",
-      "graphs": 3,
-      "ip": "84.231.61.175",
-      "mac": "6C:92:BF:CE:FC:ED",
-      "cpus": -1,
-      "ram": -1,
-      "threads": -1,
-      "memory": -1,
-      "nodes": -1,
-      "data_size": -1
-    },
-    {
-      "id": "server-test-d8fd7623-4a69-863b-cca0-3eb9ad85e45e",
-      "version": "",
-      "graphs": 10,
-      "ip": "10.102.64.40",
-      "mac": "6c:92:bf:3a:fe:b0",
-      "cpus": -1,
-      "ram": -1,
-      "threads": -1,
-      "memory": -1,
-      "nodes": -1,
-      "data_size": -1
-    }
-  ]
+  "issued_time": "2020-08-01 00:00:00",
+  "not_before": "2020-08-01 00:00:00",
+  "not_after": "2020-10-01 00:00:00",
+  "extra_params": []
 }
