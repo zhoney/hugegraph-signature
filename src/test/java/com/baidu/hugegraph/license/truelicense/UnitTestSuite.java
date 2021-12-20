@@ -17,22 +17,15 @@
  * under the License.
  */
 
-package com.baidu.hugegraph;
+package com.baidu.hugegraph.license.truelicense;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
+import org.junit.runner.RunWith;
+import org.junit.runners.Suite;
 
-import org.apache.commons.codec.digest.DigestUtils;
-
-public class GenerateMD5 {
-
-    public static void main(String[] args) throws IOException {
-        String path = "public-certs.store";
-        try (InputStream is = new FileInputStream(new File(path))) {
-            String actualMD5 = DigestUtils.md5Hex(is);
-            System.out.println(actualMD5);
-        }
-    }
+@RunWith(Suite.class)
+@Suite.SuiteClasses({
+    TrueLicenseManagerTest.class,
+    TrueLicenseCreatorTest.class
+})
+public class UnitTestSuite {
 }
