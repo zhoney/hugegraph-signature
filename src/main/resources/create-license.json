@@ -4,38 +4,11 @@
   "privatekey_path": "src/main/resources/private-keys.store",
   "consumer_type": "user",
   "consumer_amount": 1,
-  "key_password": "3acbc5f4-1b3b-404e-b715-27c1a17d2892",
-  "store_password": "803b6cc3-d144-47e8-948f-ec8b39c8881e",
-  "license_path": "hugegraph-community.license",
-  "issued_time": "2020-01-01 00:00:00",
-  "not_before": "2020-01-01 00:00:00",
-  "not_after": "2030-01-01 00:00:00",
-  "extra_params": [
-    {
-      "id": "server-1",
-      "version": "",
-      "graphs": 3,
-      "ip": "",
-      "mac": "",
-      "cpus": -1,
-      "ram": -1,
-      "threads": -1,
-      "memory": -1,
-      "nodes": 3,
-      "data_size": 102400
-    },
-    {
-      "id": "server-test-d8fd7623-4a69-863b-cca0-3eb9ad85e45e",
-      "version": "",
-      "graphs": 10,
-      "ip": "10.102.64.40",
-      "mac": "6c:92:bf:3a:fe:b0",
-      "cpus": -1,
-      "ram": -1,
-      "threads": -1,
-      "memory": -1,
-      "nodes": 3,
-      "data_size": 102400
-    }
-  ]
+  "key_password": "fce5e137-61f2-c79a-19a9-79a822578932",
+  "store_password": "278a8c8d-15d7-b99f-1957-2c30bcefd8e5",
+  "license_path": "hugegraph-icbc.license",
+  "issued_time": "2020-08-01 00:00:00",
+  "not_before": "2020-08-01 00:00:00",
+  "not_after": "2020-10-01 00:00:00",
+  "extra_params": []
 }
